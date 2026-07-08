@@ -1,0 +1,33 @@
+{
+  "name": "dfsdfds",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "dfsdfsd": {
+      "id": "MQZO93l0Nbb5cZIxCABJX",
+      "given": [
+        "#All_Array_Item"
+      ],
+      "severity": "error",
+      "then": {
+        "function": "casing",
+        "functionOptions": {
+          "disallowDigits": true
+        },
+        "field": "dfsdfsddfs"
+      },
+      "name": "dfsdfsd",
+      "description": "fsdfsdfdsdfsdfds",
+      "message": "dfsdfds"
+    }
+  },
+  "extendedDefault": false
+}
